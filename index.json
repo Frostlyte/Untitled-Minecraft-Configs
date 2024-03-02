@@ -1,5 +1,7 @@
 {
     "untitledMinecraftServer": {
+        "name": "Untitled Modded Minecraft Server",
+        "version": "minecraft-1.19.2-0.23.1",
         "configs": {
             "Enchancement": "enchancement.json"
         }
