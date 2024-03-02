@@ -1,9 +1,7 @@
 {
-  "untitledMinecraftServer" : 
-	{
-    "configs" : 
-    {
-      "Enchancement": "enchancement.json"
+    "untitledMinecraftServer": {
+        "configs": {
+            "Enchancement": "enchancement.json"
+        }
     }
-  }
 }
