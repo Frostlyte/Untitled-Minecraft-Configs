@@ -5,19 +5,5 @@
         "configs": {
             "Enchancement": "enchancement.json"
         }
-    },
-    "TEST1": {
-        "name": "TESTMODPACK",
-        "version": "NONE",
-        "configs": {
-            "TEST": "NONE"
-        }
-    },
-    "TEST2": {
-        "name": "TESTMODPACK",
-        "version": "NONE",
-        "configs": {
-            "TEST": "NONE"
-        }
     }
 }
